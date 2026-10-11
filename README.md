@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xaurluv&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
+     <img src="https://hits.sh/github.com/xaurluv/xaurluv.svg?style=flat-square&label=Profile+Views&color=000000" alt="Profile views" />
 </p>
 
 <div align="center">
