@@ -39,7 +39,7 @@ Profile ver. 2.0
 ------------------------------------------------------------------------
 Role     : Student · Developer . Security
 Interests: Software · Linux · Assembly
-Discord  : xariosh
+Discord  : xaurluv
 Status   : Probably working on something right now.
 ------------------------------------------------------------------------
 
