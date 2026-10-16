@@ -36,8 +36,7 @@ Profile ver. 2.0
 ------------------------------------------------------------------------
 Role     : Student · Developer · Security
 Interests: Software · Linux · Assembly
-Discord  : xaurluv
-Status   : Probably working on something right now.
+Discord  : xaurluv_
 ------------------------------------------------------------------------
 
 Enjoyed something I've built?
