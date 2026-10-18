@@ -31,16 +31,23 @@
 
 ```csharp
 
-Profile ver. 2.0
-
-------------------------------------------------------------------------
-Role     : Student · Developer · Security
-Interests: Software · Linux · Assembly
-Discord  : xaurluv_
 ------------------------------------------------------------------------
 
-Enjoyed something I've built?
-Consider leaving a ⭐ on the repository.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
 
 ```
 
