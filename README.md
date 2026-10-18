@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-xaurluv-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: xaurluv" />
+  <img src="https://img.shields.io/badge/-xaurluv-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: xaurluv_" />
 </p>
 
 <p align="center">
