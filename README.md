@@ -1,4 +1,4 @@
-# ⚔️ xbattle
+# ⚔️ xbattle (IN PROGRESS - A LOT IS LEFT TO BUILD)
 
 A tiny RPG battle powered by GitHub Actions.
 
