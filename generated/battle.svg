@@ -43,13 +43,13 @@
     <rect x="830" y="95" width="400" height="28"
           rx="8" fill="#222" stroke="#fff" stroke-width="2"/>
 
-    <rect x="830" y="95" width="240" height="28"
+    <rect x="830" y="95" width="160" height="28"
           rx="8" fill="#55dc83"/>
 
     <text x="1030" y="115"
           text-anchor="middle" fill="white"
           font-size="17" font-weight="bold">
-      60/100 HP
+      40/100 HP
     </text>
   
 
@@ -75,7 +75,7 @@
             fill="white"
             font-size="24"
             font-weight="bold">
-        ATTACKS: 6
+        ATTACKS: 7
       </text>
 
     </svg>

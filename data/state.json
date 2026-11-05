@@ -6,12 +6,12 @@
   },
   "enemy": {
     "name": "enemy",
-    "hp": 60,
+    "hp": 40,
     "maxhp": 100
   },
   "battle": {
     "damage": 20,
     "regen": 5,
-    "attacks": 6
+    "attacks": 7
   }
 }
