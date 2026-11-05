@@ -1,0 +1,11 @@
+{
+  "name": "xbattle",
+  "version": "1.0.0",
+  "description": "A tiny rpg battle powered by github actions for my github profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "battle": "node src/battle.js",
+    "render": "node src/render.js"
+  }
+}

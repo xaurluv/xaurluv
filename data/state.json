@@ -1,0 +1,17 @@
+{
+  "player": {
+    "name": "player",
+    "hp": 100,
+    "maxhp": 100
+  },
+  "enemy": {
+    "name": "enemy",
+    "hp": 80,
+    "maxhp": 100
+  },
+  "battle": {
+    "damage": 20,
+    "regen": 5,
+    "attacks": 5
+  }
+}

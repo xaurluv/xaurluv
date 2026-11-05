@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Original downloaded asset packs
+assets/characters/Free_PixelAdventureLand_Florassence/
+assets/characters/Free Pack (3 Creatures)/
+
+# Unused backgrounds
+assets/backgrounds/Free_BG_[1-5]_320x180px.png
